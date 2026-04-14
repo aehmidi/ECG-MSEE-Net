@@ -1,8 +1,4 @@
-❤️ DeepECG-MSEE
-
-ECG Heartbeat Classification with Signal Quality-Aware Deep Learning
-
-📌 Description
+❤️ ECG-MSEE-Net
 
 DeepECG-MSEE is a deep learning framework for automated ECG heartbeat classification that integrates signal quality awareness into the model’s decision process. It combines a hybrid CNN–Transformer architecture with a novel MSEE-based adaptive spectral weighting mechanism to improve robustness against noisy and low-quality signals.
 

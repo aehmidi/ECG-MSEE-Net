@@ -19,3 +19,14 @@ Citation :
   year={2026},
   doi={10.1109/ACCESS.2026.3682235}
 }
+
+👤 Author Contributions
+
+Alaeddine Hmidi is the sole developer and primary contributor of this project.
+
+🔹 Conceptualization: Designed the overall research idea and methodology
+🔹 Model Development: Implemented the complete deep learning architecture (CNN–Transformer with MSEE gating)
+🔹 Algorithm Design: Developed the MSEE-based signal quality assessment and adaptive weighting mechanism
+🔹 Experimentation: Conducted all experiments, evaluations, and performance analysis
+🔹 Software Implementation: Built the full training pipeline, visualization tools, and evaluation framework
+🔹 Writing & Documentation: Prepared the manuscript, technical documentation, and GitHub repository
